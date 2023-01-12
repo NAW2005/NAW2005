@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN-FullStack**
 
-- 👨‍💻 All of my projects are available at [https://nawnawportfolio.netlify.app](https://nawnawportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://nawnaw-portfolio.netlify.app](https://nawnaw-portfolio.netlify.app)
 
 - 💬 Ask me about **MERN**
 
