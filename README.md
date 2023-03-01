@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN-FullStack**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://nawnaw-portfolio.netlify.app](https://nawnaw-portfolio.netlify.app)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **.**
 
 - 📫 How to reach me **sinwarnaw028@gmail.com**
 
